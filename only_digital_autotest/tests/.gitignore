@@ -1,0 +1,21 @@
+# Python Virtual Environment
+# Игнорируем папку с виртуальным окружением
+.venv/
+venv/
+
+# PyCharm specific files
+# Игнорируем папку с настройками PyCharm
+.idea/
+
+# Python bytecode and cache
+# Игнорируем кэш Python
+__pycache__/
+*.pyc
+
+# Pytest cache
+# Игнорируем кэш Pytest
+.pytest_cache/
+
+# Environment variables file
+# Игнорируем файлы с секретными данными (хорошая практика)
+.env
