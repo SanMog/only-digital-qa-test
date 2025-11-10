@@ -13,7 +13,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [ссылка_на_ваш_репозиторий]
+    git clone https://github.com/SanMog/only-digital-qa-test/tree/main
     cd only_digital_autotest
     ```
 
